@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Build files (for React app)
+build/
+dist/
+
+# npm package-lock file
+package-lock.json
